@@ -1,7 +1,6 @@
  Privacy Policy
  Copyright license
- Pollfish incentivized surveys
- UnityAds
- ChartBoost
- Advertisement logic - rewards, frequency
+ Pollfish incentivized surveys - done
+ UnityAds - done
+ Advertisement logic - rewards, frequency - done
  Google Purchases - done
