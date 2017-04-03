@@ -1,6 +1,9 @@
  Privacy Policy
- Copyright license
+ Copyright license (last)
  Pollfish incentivized surveys - done
  UnityAds - done
  Advertisement logic - rewards, frequency - done
  Google Purchases - done
+
+__
+Splash screen - 50% NLG 50% Circle Switch (Percentage of time)
