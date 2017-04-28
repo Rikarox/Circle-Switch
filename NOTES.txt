@@ -1,6 +1,6 @@
 TODO:
 
-**A. Design**
+A. Design
 
 ----shop----
 1. Equipment x6 do shopu
