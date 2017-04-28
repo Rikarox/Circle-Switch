@@ -1,9 +1,43 @@
- Privacy Policy
- Copyright license (last)
- Pollfish incentivized surveys - done
- UnityAds - done
- Advertisement logic - rewards, frequency - done
- Google Purchases - done
+TODO:
 
+A. Design
+
+----shop----
+1. Equipment x6 do shopu
+2. Ten equipment čo sa bude dať použiť v hre (slow down...) malé ikonky
+3. Ten equipment čo sa použije pred hrou (x2 coins...) malé ikonky
+4. Ktorá bude default téma?
+5. Zmeniť BabyPink tému na nejakú inú
+6. Zmeniť názov LSD témy
+7. Zrobiť sivý obrázok bez názvu, keď item ešte nie je odomknutý
+8. Itemy len použiteľné alebo aj stále?
+9. Čo sa bude dať kúpiť za reálne a čo za herné peniaze?
+10. Podľa bodu 9 dorobiť ešte ikonky do shopu na veci, ktoré sa budú dať kúpiť za reálne peniaze
+
+----mainMenu----
+1. ikonky - Leaderboard, Shop, Gift, MusicIcon - on, off + ... ?
+2. font
+3. Ikonka na item, ktorý bude použitý pred hrou (2x coins...) - bod 3 v shop design ?
+4. Prechod medzi menu a hrou
+5. Menu v šýle podľa toho aká je použitá téma ?
+6. Špeciálne efekty v hre podľa toho aká je použitá téma ?
+
+----gift----
+1. obrázky giftov - gold, equip, theme
+2. animácia pri otvorení giftu
+3. celkové rozhranie obrazovky, kde sa bude ten gift otvárať
+4. po otvorení giftu nejaký button na štýl "buy another one"...
+
+----game----
+1. zmena pozadia podľa nahraných bodov?
+2. animácia +1 coin (poprípade ešte +2 pri x2 coins)
+3. animácia pri narazení na prekážku?
+4. dizajn okna po skončení hry (playAgain button, menu button, shop button...)
+5. návrh padacieho giftu v hre - powerupy
+6. gradovanie glowu guličky pri klikaní?
+7. návrh powerupov?
+
+Privacy Policy
+Copyright license (last)
 __
 Splash screen - 50% NLG 50% Circle Switch (Percentage of time)
