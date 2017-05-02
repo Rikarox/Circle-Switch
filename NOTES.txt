@@ -34,9 +34,8 @@ A. Design
 2. animácia +1 coin (poprípade ešte +2 pri x2 coins)
 3. animácia pri narazení na prekážku?
 4. dizajn okna po skončení hry (playAgain button, menu button, shop button...)
-5. návrh padacieho giftu v hre - powerupy
+5. návrh padacieho giftu v hre - návrh odmien
 6. gradovanie glowu guličky pri klikaní?
-7. návrh powerupov?
 
 B. Funcionality
 
