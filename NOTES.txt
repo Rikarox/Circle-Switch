@@ -31,11 +31,11 @@ A. Design
 
 ----game----
 1. zmena pozadia podľa nahraných bodov?
-2. animácia +1 coin (poprípade ešte +2 pri x2 coins)
+2. animácia +1 coin (poprípade ešte +2 pri x2 coins) - DONE
 3. animácia pri narazení na prekážku?
 4. dizajn okna po skončení hry (playAgain button, menu button, shop button...)
 5. návrh padacieho giftu v hre - návrh odmien
-6. gradovanie glowu guličky pri klikaní?
+//6. gradovanie glowu guličky pri klikaní? - Zatiaľ nie
 
 B. Funcionality
 
