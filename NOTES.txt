@@ -59,8 +59,8 @@ B. Funcionality
 ----game----
 1. herná logika, zrýchľovanie podľa počtu bodov
 2. menenie pozadia?
-3. padanie giftu v hre
-4. powerupy z giftu
+3. padanie giftu v hre - DONE
+4. odmeny z giftu, upozornenie, text
 5. použitie equipmentu - efekty, fyzika
 6. lose game - freeze scénu a zobrazenie menu "plaAgain"...
 7. rotácia kruhu?
