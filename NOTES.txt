@@ -40,11 +40,11 @@ A. Design
 B. Funcionality
 
 ----shop----
-1. zaznamenávať počet použiteľných equip
-2. rozlíšiť použiteľné a nepoužiteľné equip - použiteľné v shope rovno odomknuté, počet 0
-3. zmeniť aktuálnu tému po kliknutí a dať pásik "using"
+1. zaznamenávať počet použiteľných equip DONE
+2. použiteľné equip - použiteľné v shope rovno odomknuté, počet 0 DONE
+3. zmeniť aktuálnu tému po kliknutí a dať pásik "using" DONE
 4. pridať itemy za real peniaze do konzoly
-5. ukladanie počtu použiteľných itemov (serialize)
+5. ukladanie počtu použiteľných itemov (serialize) DONE
 
 ----menu----
 1. mute/enable sound po kliknutí na sound icon
