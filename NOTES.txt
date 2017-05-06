@@ -10,14 +10,19 @@ A. Design
 5. Zmeniť BabyPink tému na nejakú inú
 6. Zmeniť názov LSD témy
 7. Zrobiť sivý obrázok bez názvu, keď item ešte nie je odomknutý
-8. Itemy len použiteľné alebo aj stále?
-9. Čo sa bude dať kúpiť za reálne a čo za herné peniaze?
+x8. Itemy len použiteľné alebo aj stále? *jednorázove použitie
+x9. Čo sa bude dať kúpiť za reálne a čo za herné peniaze? *real=gifts,sale pack,coins. coins=theme,equ.
 10. Podľa bodu 9 dorobiť ešte ikonky do shopu na veci, ktoré sa budú dať kúpiť za reálne peniaze
-11. cena jednotlivých itemov
+x11. cena jednotlivých itemov
+*2xcoin od 100
+shield cca 500
+freeze cca 500
+boost cca 100
+Themes cca 500+ / special theme? 1000
 
 ----mainMenu----
-1. ikonky - Leaderboard, Shop, Gift, MusicIcon - on, off + ... ?
-2. font
+x1. ikonky - Leaderboard, Shop, Gift, MusicIcon - on, off + ... ? leadboard,shop,gift,rate,music,settings/info
+x2. font *Raleway
 3. Ikonka na item, ktorý bude použitý pred hrou (2x coins...) - bod 3 v shop design ?
 4. Prechod medzi menu a hrou
 5. Menu v šýle podľa toho aká je použitá téma ?
@@ -31,20 +36,20 @@ A. Design
 
 ----game----
 1. zmena pozadia podľa nahraných bodov?
-2. animácia +1 coin (poprípade ešte +2 pri x2 coins) - DONE
-3. animácia pri narazení na prekážku?
+x2. animácia +1 coin (poprípade ešte +2 pri x2 coins) - DONE
+x3. animácia pri narazení na prekážku? White screen/flash
 4. dizajn okna po skončení hry (playAgain button, menu button, shop button...)
 5. návrh padacieho giftu v hre - návrh odmien
-//6. gradovanie glowu guličky pri klikaní? - Zatiaľ nie
+x6. gradovanie glowu guličky pri klikaní? - Zatiaľ nie
 
 B. Funcionality
 
 ----shop----
-1. zaznamenávať počet použiteľných equip DONE
-2. použiteľné equip - použiteľné v shope rovno odomknuté, počet 0 DONE
-3. zmeniť aktuálnu tému po kliknutí a dať pásik "using" DONE
+x1. zaznamenávať počet použiteľných equip DONE
+x2. použiteľné equip - použiteľné v shope rovno odomknuté, počet 0 DONE
+x3. zmeniť aktuálnu tému po kliknutí a dať pásik "using" DONE
 4. pridať itemy za real peniaze do konzoly
-5. ukladanie počtu použiteľných itemov (serialize) DONE
+x5. ukladanie počtu použiteľných itemov (serialize) DONE
 
 ----menu----
 1. mute/enable sound po kliknutí na sound icon
@@ -58,12 +63,12 @@ B. Funcionality
 
 ----game----
 1. herná logika, zrýchľovanie podľa počtu bodov
-2. menenie pozadia?
-3. padanie giftu v hre - DONE
+x2. menenie pozadia? *zatial nie/ special theme
+x3. padanie giftu v hre - DONE
 4. odmeny z giftu, upozornenie, text
 5. použitie equipmentu - efekty, fyzika
 6. lose game - freeze scénu a zobrazenie menu "plaAgain"...
-7. rotácia kruhu?
+x7. rotácia kruhu? *Zmena smeru kazdých 50
 8. zobrazovanie prekážky, 1, 2, 3 - alpha channel
 9. zaznamenávanie score do leaderboard if score > highscore
 10. zobrazovanie reklamy po prehratí - percentage, odmeny...
