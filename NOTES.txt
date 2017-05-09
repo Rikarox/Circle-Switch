@@ -3,7 +3,7 @@ TODO:
 A. Design
 
 ----shop----
-1. Equipment x6 do shopu
+1. Equipment x6 do shopu +Click buy=+1 animation and sound
 2. Ten equipment čo sa bude dať použiť v hre (slow down...) malé ikonky
 3. Ten equipment čo sa použije pred hrou (x2 coins...) malé ikonky
 4. Ktorá bude default téma?
