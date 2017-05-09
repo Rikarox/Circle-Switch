@@ -66,7 +66,7 @@ x5. ukladanie počtu použiteľných itemov (serialize) DONE
 x2. menenie pozadia? *zatial nie/ special theme
 x3. padanie giftu v hre - DONE
 4. odmeny z giftu, upozornenie, text
-5. použitie equipmentu - efekty, fyzika
+5. použitie equipmentu - efekty, fyzika *ked sa použije EQ. -> alpha 0%
 6. lose game - freeze scénu a zobrazenie menu "plaAgain"...
 x7. rotácia kruhu? *Zmena smeru kazdých 50
 8. zobrazovanie prekážky, 1, 2, 3 - alpha channel
