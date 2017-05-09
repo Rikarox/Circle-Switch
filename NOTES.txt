@@ -3,7 +3,6 @@ TODO:
 A. Design
 
 ----shop----
-7. Zrobiť sivý obrázok bez názvu, keď item ešte nie je odomknutý
 x8. Itemy len použiteľné alebo aj stále? *jednorázove použitie
 x9. Čo sa bude dať kúpiť za reálne a čo za herné peniaze? *real=gifts,sale pack,coins. coins=theme,equ.
 10. Podľa bodu 9 dorobiť ešte ikonky do shopu na veci, ktoré sa budú dať kúpiť za reálne peniaze
