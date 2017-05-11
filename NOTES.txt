@@ -3,7 +3,6 @@ TODO:
 A. Design
 
 ----shop----
-x8. Itemy len použiteľné alebo aj stále? *jednorázove použitie
 x9. Čo sa bude dať kúpiť za reálne a čo za herné peniaze? *real=gifts,sale pack,coins. coins=theme,equ.
 10. Podľa bodu 9 dorobiť ešte ikonky do shopu na veci, ktoré sa budú dať kúpiť za reálne peniaze
 x11. cena jednotlivých itemov
@@ -41,7 +40,7 @@ B. Funcionality
 x1. zaznamenávať počet použiteľných equip DONE
 x2. použiteľné equip - použiteľné v shope rovno odomknuté, počet 0 DONE
 x3. zmeniť aktuálnu tému po kliknutí a dať pásik "using" DONE
-4. pridať itemy za real peniaze do konzoly
+4. pridať itemy za real peniaze do konzoly - nový shop pre itemy za real peniaze
 x5. ukladanie počtu použiteľných itemov (serialize) DONE
 
 ----menu----
@@ -71,7 +70,7 @@ C. Other
 1. Sound
 2. Privacy Policy
 3. Copyright license
-4. Splash screen - 50% NLG 50% Circle Switch (Percentage of time)
+4. Splash screen - 50% NLG 50% Circle Switch (Percentage of time) - DONE
 5. Game icon
 6. Game screenshots do konzoly...
 7. Tutorial keď užívateľ zapne prvýkrát hru?
