@@ -10,15 +10,13 @@ x11. cena jednotlivých itemov
 shield cca 500
 freeze cca 500
 boost cca 100
-Themes cca 500+ / special theme? 1000
+Themes cca 500+ 
 
 ----mainMenu----
-x1. ikonky - Leaderboard, Shop, Gift, MusicIcon - on, off + ... ? leadboard,shop,gift,rate,music,settings/info
 x2. font *Raleway
-3. Ikonka na item, ktorý bude použitý pred hrou (2x coins...) - bod 3 v shop design ?
 4. Prechod medzi menu a hrou
-5. Menu v šýle podľa toho aká je použitá téma ?
-6. Špeciálne efekty v hre podľa toho aká je použitá téma ?
+5. Menu v šýle podľa toho aká je použitá téma ? *Yes
+6. Špeciálne efekty v hre podľa toho aká je použitá téma ? *+1 color and font *sounds
 
 ----gift----
 1. obrázky giftov - gold, equip, theme
