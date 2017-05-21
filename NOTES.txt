@@ -5,8 +5,8 @@ A. Design
 ----shop----
 x9. Čo sa bude dať kúpiť za reálne a čo za herné peniaze? *real=gifts,sale pack,coins. coins=theme,equ.
 10. Podľa bodu 9 dorobiť ešte ikonky do shopu na veci, ktoré sa budú dať kúpiť za reálne peniaze
-x11. cena jednotlivých itemov
-*2xcoin od 100
+
+2xcoin od 100
 shield cca 500
 freeze cca 500
 boost cca 100
@@ -18,7 +18,7 @@ x2. font *Raleway
 5. Menu v šýle podľa toho aká je použitá téma ? *Yes
 6. Špeciálne efekty v hre podľa toho aká je použitá téma ? *+1 color and font *sounds
 
-----gift----
+----gift---- *incomming
 1. obrázky giftov - gold, equip, theme
 2. animácia pri otvorení giftu
 3. celkové rozhranie obrazovky, kde sa bude ten gift otvárať
@@ -26,20 +26,14 @@ x2. font *Raleway
 
 ----game----
 1. zmena pozadia podľa nahraných bodov?
-x2. animácia +1 coin (poprípade ešte +2 pri x2 coins) - DONE
 x3. animácia pri narazení na prekážku? White screen/flash
 4. dizajn okna po skončení hry (playAgain button, menu button, shop button...)
 5. návrh padacieho giftu v hre - návrh odmien
-x6. gradovanie glowu guličky pri klikaní? - Zatiaľ nie
 
 B. Funcionality
 
 ----shop----
-x1. zaznamenávať počet použiteľných equip DONE
-x2. použiteľné equip - použiteľné v shope rovno odomknuté, počet 0 DONE
-x3. zmeniť aktuálnu tému po kliknutí a dať pásik "using" DONE
-4. pridať itemy za real peniaze do konzoly - nový shop pre itemy za real peniaze
-x5. ukladanie počtu použiteľných itemov (serialize) DONE
+x4. pridať itemy za real peniaze do konzoly - nový shop pre itemy za real peniaze *incomming
 
 ----menu----
 1. mute/enable sound po kliknutí na sound icon
@@ -54,21 +48,15 @@ x5. ukladanie počtu použiteľných itemov (serialize) DONE
 ----game----
 1. herná logika, zrýchľovanie podľa počtu bodov
 x2. menenie pozadia? *zatial nie/ special theme
-x3. padanie giftu v hre - DONE
 4. odmeny z giftu, upozornenie, text
 5. použitie equipmentu - efekty, fyzika *ked sa použije EQ. -> alpha 0%
-6. lose game - freeze scénu a zobrazenie menu "plaAgain"... - DONE
-x7. rotácia kruhu? *Zmena smeru kazdých 50
-8. zobrazovanie prekážky, 1, 2, 3 - alpha channel - DONE
-9. zaznamenávanie score do leaderboard if score > highscore - DONE
 10. zobrazovanie reklamy po prehratí - percentage, odmeny...
 
-C. Other
+C. Other *incomming
 
 1. Sound
 2. Privacy Policy
 3. Copyright license
-4. Splash screen - 50% NLG 50% Circle Switch (Percentage of time) - DONE
 5. Game icon
 6. Game screenshots do konzoly...
-7. Tutorial keď užívateľ zapne prvýkrát hru?
+x7. Tutorial keď užívateľ zapne prvýkrát hru? *Yes, pripravim
