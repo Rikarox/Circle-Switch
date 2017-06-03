@@ -3,8 +3,6 @@ TODO:
 A. Design
 
 ----shop----
-x9. Čo sa bude dať kúpiť za reálne a čo za herné peniaze? *real=gifts,sale pack,coins. coins=theme,equ.
-10. Podľa bodu 9 dorobiť ešte ikonky do shopu na veci, ktoré sa budú dať kúpiť za reálne peniaze
 
 2xcoin od 100
 shield cca 500
@@ -13,15 +11,11 @@ boost cca 100
 Themes cca 500+ 
 
 ----mainMenu----
-x2. font *Raleway
 4. Prechod medzi menu a hrou
-5. Menu v šýle podľa toho aká je použitá téma ? *Yes
 6. Špeciálne efekty v hre podľa toho aká je použitá téma ? *+1 color and font *sounds
 
-----gift---- *incomming
-1. obrázky giftov - gold, equip, theme
-2. animácia pri otvorení giftu
-3. celkové rozhranie obrazovky, kde sa bude ten gift otvárať
+----gift---- 
+2. animácia pri otvorení giftu *incomming
 4. po otvorení giftu nejaký button na štýl "buy another one"...
 
 ----game----
@@ -33,7 +27,6 @@ x3. animácia pri narazení na prekážku? White screen/flash
 B. Funcionality
 
 ----shop----
-x4. pridať itemy za real peniaze do konzoly - nový shop pre itemy za real peniaze *incomming
 
 ----menu----
 1. mute/enable sound po kliknutí na sound icon
