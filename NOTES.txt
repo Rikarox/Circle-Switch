@@ -3,47 +3,41 @@ TODO:
 A. Design
 
 ----shop----
-
-2xcoin od 100
-shield cca 500
-freeze cca 500
-boost cca 100
-Themes cca 500+ 
-
-----mainMenu----
-4. Prechod medzi menu a hrou
-6. Špeciálne efekty v hre podľa toho aká je použitá téma ? *+1 color and font *sounds
+1. ikonky do shopu real money - 3x gift, 10x gift, equipment pack - 3x z každého, 500, 1000, 5000 coins, sale - coming
+2. buttony v shope - use, buy, cancel... 
 
 ----gift---- 
-2. animácia pri otvorení giftu *incomming
-4. po otvorení giftu nejaký button na štýl "buy another one"...
+1. Obrázky rewardov, animácia otvorenia...
 
 ----game----
-1. zmena pozadia podľa nahraných bodov?
-x3. animácia pri narazení na prekážku? White screen/flash
-4. dizajn okna po skončení hry (playAgain button, menu button, shop button...)
-5. návrh padacieho giftu v hre - návrh odmien
+1. animácia pri narazení na prekážku - White screen/flash
+2. dizajn buttonov po skončení hry (playAgain button, menu button, shop button...)
+3. návrh padacieho giftu v hre - návrh odmien
+4. Špeciálne efekty v hre podľa toho aká je použitá téma ? *+1 color and font *sounds
+5. buttony na pozretie reklamy a urobenie survey, na štýl "Get 100 Coins", "Get Free Gift"
 
 B. Funcionality
 
 ----shop----
+1. vyberanie itemu, ktorý bude použitý v hre
+2. random kupovanie tém
 
 ----menu----
-1. mute/enable sound po kliknutí na sound icon
-2. prechod medzi menu a hrou, animácia, odstránenie ikoniek
-3. vyberanie itemu, ktorý bude použitý v hre
-4. stable layout - canvas
+1. prechod medzi menu a hrou, animácia, odstránenie ikoniek, deaktivacia nepotrebných skriptov
 
 ----gift----
-1. logika k random giftu - percentage, gift obrázok, animácia...
-2. pridať príslušnú tému, gold, equip do inventára a všetko uložiť
+1. každý deň +free gift logika podľa času
+2. gift percentage:
+a. peniaze - 50, 80, 100, 120, 200, 500 - zlty gift - 60%
+500 - 15%, 200 - 20%, 120 - 25%, 100 - 40%, 80 - 40%, 50 - 40% 
+b. tema - random tema ktora nie je unlocknuta - cerveny gift - 5%
+c. equipment - 1ks alebo 2ks - 35%
+1ks - 85%, 2ks - 15%
 
 ----game----
 1. herná logika, zrýchľovanie podľa počtu bodov
-x2. menenie pozadia? *zatial nie/ special theme
-4. odmeny z giftu, upozornenie, text
-5. použitie equipmentu - efekty, fyzika *ked sa použije EQ. -> alpha 0%
-10. zobrazovanie reklamy po prehratí - percentage, odmeny...
+2. odmeny z giftu, upozornenie, text
+3. použitie equipmentu - efekty, fyzika *ked sa použije EQ. -> alpha 0%
 
 C. Other *incomming
 
