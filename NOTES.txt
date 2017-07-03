@@ -1,7 +1,4 @@
 TODO:
-----gift---- 
-1. Obrázky rewardov, animácia otvorenia...
-
 ----game----
 1. animácia pri narazení na prekážku - White screen/flash
 2. dizajn buttonov po skončení hry (playAgain button, menu button, shop button...)
