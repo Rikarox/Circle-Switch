@@ -1,11 +1,4 @@
 TODO:
-
-A. Design
-
-----shop----
-1. ikonky do shopu real money - 3x gift, 10x gift, equipment pack - 3x z každého, 500, 1000, 5000 coins, sale - coming
-2. buttony v shope - use, buy, cancel... 
-
 ----gift---- 
 1. Obrázky rewardov, animácia otvorenia...
 
