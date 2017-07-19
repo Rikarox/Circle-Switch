@@ -39,13 +39,14 @@ C. Other *incomming
 x7. Tutorial keď užívateľ zapne prvýkrát hru? *Yes, pripravim
 
 ------------------------------------------------------
-aesthetic random text MLG
-candy raz za čas cukrik
+*aesthetic random text MLG
+*candy raz za čas cukrik
 sky oblak raz za čas blop animation
-miami lopta 
-rio lietadlo
-freedom bird
-rose
-#ff00cc #333399 space / traveller / cosmic
-nature / waterfall #00c6ff #0072ff / #00d2ff #3a7bd5 / #50C9C3 #96DEDA / #4CB8C4 #3CD3AD / #4AC29A #BDFFF3
+*miami lopta 
+*rio lietadlo
+*freedom bird
+*rose
+galaxy daco preleti a blop
+waterfall 
+default
 
