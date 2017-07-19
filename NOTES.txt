@@ -46,6 +46,6 @@ miami lopta
 rio lietadlo
 freedom bird
 rose
-x
-x
+#ff00cc #333399 space / traveller / cosmic
+nature / waterfall #00c6ff #0072ff / #00d2ff #3a7bd5 / #50C9C3 #96DEDA / #4CB8C4 #3CD3AD / #4AC29A #BDFFF3
 
