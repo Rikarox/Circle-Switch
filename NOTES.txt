@@ -17,7 +17,7 @@ B. Funcionality
 ----gift----
 2. gift percentage:
 a. peniaze - 50, 80, 100, 120, 200, 500 - zlty gift - 60%
-500 - 15%, 200 - 20%, 120 - 25%, 100 - 40%, 80 - 40%, 50 - 40% 
+500 - 10%, 200 - 12%, 120 - 18%, 100 - 20%, 80 - 20%, 50 - 20% 
 b. tema - random tema ktora nie je unlocknuta - cerveny gift - 5%
 c. equipment - 1ks alebo 2ks - 35%
 1ks - 85%, 2ks - 15%
