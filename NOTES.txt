@@ -1,6 +1,5 @@
 TODO:
 ----game----
-1. animácia pri narazení na prekážku - White screen/flash
 2. dizajn buttonov po skončení hry (playAgain button, menu button, shop button...)
 3. návrh padacieho giftu v hre
 4. Špeciálne efekty v hre podľa toho aká je použitá téma ? *+1 color and font *sounds
@@ -10,9 +9,6 @@ B. Funcionality
 
 ----shop----
 1. vyberanie itemu, ktorý bude použitý v hre
-
-----menu----
-1. prechod medzi menu a hrou, animácia, odstránenie ikoniek, deaktivacia nepotrebných skriptov
 
 ----game----
 1. custom efekty podľa témy
