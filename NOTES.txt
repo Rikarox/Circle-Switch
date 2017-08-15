@@ -25,11 +25,11 @@ C. Other *incomming
 x7. Tutorial keď užívateľ zapne prvýkrát hru? *Yes, pripravim
 
 ------------------------------------------------------
-*aesthetic random text MLG
-*candy raz za čas cukrik
-sky oblak raz za čas blop animation
-*miami lopta 
-*rio lietadlo
+-DONE *aesthetic random text MLG
+-DONE *candy raz za čas cukrik
+-DONE sky oblak raz za čas blop animation
+-DONE *miami lopta 
+-DONE *rio lietadlo
 *freedom bird
 *rose
 galaxy daco preleti a blop
