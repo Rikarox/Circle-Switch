@@ -1,25 +1,21 @@
 TODO:
 ----game----
-2. dizajn buttonov po skončení hry (playAgain button, menu button, shop button...)
-3. návrh padacieho giftu v hre
-4. Špeciálne efekty v hre podľa toho aká je použitá téma ? *+1 color and font *sounds
-5. buttony na pozretie reklamy a urobenie survey, na štýl "Get 100 Coins", "Get Free Gift"
+2. dizajn buttonov po skončení hry (playAgain button, menu button, shop button...) - R
+4. Špeciálne efekty v hre podľa toho aká je použitá téma - M
+5. buttony na pozretie reklamy a urobenie survey, na štýl "Get 100 Coins", "Get Free Gift" - R
+6. vyberanie powerupu - použitie equipmentu - efekty, fyzika *ked sa použije EQ. -> alpha 0% - M
+7. reklamy - M
+8. MOTIVACIA - M, R
 
-B. Funcionality
+----gift----
+1. otvaranie giftu animacia - R, M
+2. odmeny z giftu - obrazky peniaze, upozornenie animacia +coins - R
+3. daily gift UI - R
 
-----shop----
-1. vyberanie itemu, ktorý bude použitý v hre
+C. Other *incoming
 
-----game----
-1. custom efekty podľa témy
-2. odmeny z giftu - peniaze, upozornenie animacia +coins
-3. použitie equipmentu - efekty, fyzika *ked sa použije EQ. -> alpha 0%
-
-C. Other *incomming
-
-1. Sound
+1. Sound - switch zvuk, blop pri popnutí efektu v hre, freeze zvuk, boost zvuk - R
 2. Privacy Policy
-3. Copyright license
 5. Game icon
 6. Game screenshots do konzoly...
 x7. Tutorial keď užívateľ zapne prvýkrát hru? *Yes, pripravim
