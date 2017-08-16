@@ -32,7 +32,7 @@ x7. Tutorial keď užívateľ zapne prvýkrát hru? *Yes, pripravim
 -DONE *rio lietadlo
 *freedom bird
 *rose
-galaxy daco preleti a blop
+-DONE galaxy daco preleti a blop
 waterfall 
-default
+-DONE default
 
