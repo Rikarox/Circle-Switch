@@ -15,7 +15,7 @@ TODO:
 C. Other *incoming
 
 1. Sound - switch zvuk, blop pri popnutí efektu v hre, freeze zvuk, boost zvuk - R
-2. Privacy Policy
+2. Privacy Policy - Vraj netreba ked sa jedná iba o bežnú hru
 5. Game icon
 6. Game screenshots do konzoly...
 x7. Tutorial keď užívateľ zapne prvýkrát hru? *Yes, pripravim
