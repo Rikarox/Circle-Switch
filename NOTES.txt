@@ -20,5 +20,21 @@ C. Other *incoming
 6. Game screenshots do konzoly...
 x7. Tutorial keď užívateľ zapne prvýkrát hru? *Yes, pripravim
 
+aesthetic - OK
+galaxy - pomalsie a random
+rose - pomalsie a sirsie
+rio - mensie lietadlo, tmavsia tema
+sky - upravit obrazok cloudu
+miami - lopta z dola hore a dole - ako candy
+candy - zmenit obrazok a kus mensi
+waterfall -> elektro novy background + effect
+freedom - ide het!! - nahradit get all themes to get
 
+pocty ine rozlisenie fix pozicia
 
+gift - biely blur po krajoch obrázok - farba podla otvoreneho giftu
+shine tiez podla farby
+- po otvoreni daily gift - one more gift?
+
+opravit switch kazdy 20
+blop animacia
