@@ -1,11 +1,7 @@
 TODO:
 ----game----
 2. dizajn buttonov po skončení hry (playAgain button, menu button, shop button...) - R
-4. Špeciálne efekty v hre podľa toho aká je použitá téma - M
 5. buttony na pozretie reklamy a urobenie survey, na štýl "Get 100 Coins", "Get Free Gift" - R
-6. vyberanie powerupu - použitie equipmentu - efekty, fyzika *ked sa použije EQ. -> alpha 0% - M
-7. reklamy - M
-8. MOTIVACIA - M, R
 
 ----gift----
 1. otvaranie giftu animacia - R, M
