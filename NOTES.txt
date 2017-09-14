@@ -1,36 +1,18 @@
 TODO:
 ----game----
-2. dizajn buttonov po skončení hry (playAgain button, menu button, shop button...) - R
-5. buttony na pozretie reklamy a urobenie survey, na štýl "Get 100 Coins", "Get Free Gift" - R
+1. dizajn buttonov po skončení hry (playAgain button, menu button, shop button, ad button...)
+2. new highscore upozornenie
+3. rio - tmavšia téma
+4. music na special tému?
+
+---settings--- - robím
+1. effects - ON/OFF
+2. about app
 
 ----gift----
-1. otvaranie giftu animacia - R, M
-2. odmeny z giftu - obrazky peniaze, upozornenie animacia +coins - R
-3. daily gift UI - R
+1. daily gift UI
+2. biely blur po stranách obrázok na otváranie giftu
 
-C. Other *incoming
-
-1. Sound - switch zvuk, blop pri popnutí efektu v hre, freeze zvuk, boost zvuk - R
-2. Privacy Policy - Vraj netreba ked sa jedná iba o bežnú hru
-5. Game icon
-6. Game screenshots do konzoly...
-x7. Tutorial keď užívateľ zapne prvýkrát hru? *Yes, pripravim
-
-aesthetic - OK
-galaxy - pomalsie a random
-rose - pomalsie a sirsie
-rio - mensie lietadlo, tmavsia tema
-sky - upravit obrazok cloudu
-miami - lopta z dola hore a dole - ako candy
-candy - zmenit obrazok a kus mensi
-waterfall -> elektro novy background + effect
-freedom - ide het!! - nahradit get all themes to get
-
-pocty ine rozlisenie fix pozicia
-
-gift - biely blur po krajoch obrázok - farba podla otvoreneho giftu
-shine tiez podla farby
-- po otvoreni daily gift - one more gift?
-
-opravit switch kazdy 20
-blop animacia
+----other----
+1. Sounds - switch zvuk, blop pri popnutí efektu v hre, freeze zvuk, boost zvuk...
+2. Tutorial keď užívateľ zapne prvýkrát hru? *Yes, pripravim
