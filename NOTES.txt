@@ -3,16 +3,11 @@ TODO:
 1. dizajn buttonov po skončení hry (playAgain button, menu button, shop button, ad button...)
 2. new highscore upozornenie
 3. rio - tmavšia téma
-4. music na special tému?
 
 ---settings--- - robím
 1. effects - ON/OFF
 2. about app
 
-----gift----
-1. daily gift UI
-2. biely blur po stranách obrázok na otváranie giftu
 
 ----other----
-1. Sounds - switch zvuk, blop pri popnutí efektu v hre, freeze zvuk, boost zvuk...
-2. Tutorial keď užívateľ zapne prvýkrát hru? *Yes, pripravim
+1. Tutorial keď užívateľ zapne prvýkrát hru? *Yes, pripravim
