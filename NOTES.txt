@@ -1,13 +1,16 @@
 TODO:
-----game----
-1. dizajn buttonov po skončení hry (playAgain button, menu button, shop button, ad button...)
-2. new highscore upozornenie
-3. rio - tmavšia téma
 
----settings--- - robím
-1. effects - ON/OFF
-2. about app
-
-
-----other----
-1. Tutorial keď užívateľ zapne prvýkrát hru? *Yes, pripravim
+-cerveny kruzok ked nie je gift prec
+- biely shine pri otvarani giftu
+- settings layout
+- aspect 16:10 gifty
+- ice freeze prec
+- v shope disable zvuk, settign a nazvov
+- ked malo penazi sprava
+-galaxy bg
+- na druhy krat daily gift
+- particle position
+- +3 point bez znaku
+- ked z hry do shopu mixer
+zmenit percenta na gifty
+- backbutton settings
